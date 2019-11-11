@@ -1,0 +1,11 @@
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\bin\Debug\netcoreapp2.1\Markley_Lab10.deps.json
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\bin\Debug\netcoreapp2.1\Markley_Lab10.runtimeconfig.json
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\bin\Debug\netcoreapp2.1\Markley_Lab10.runtimeconfig.dev.json
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\bin\Debug\netcoreapp2.1\Markley_Lab10.dll
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\bin\Debug\netcoreapp2.1\Markley_Lab10.pdb
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\obj\Debug\netcoreapp2.1\Markley_Lab10.csprojAssemblyReference.cache
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\obj\Debug\netcoreapp2.1\Markley_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\obj\Debug\netcoreapp2.1\Markley_Lab10.AssemblyInfoInputs.cache
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\obj\Debug\netcoreapp2.1\Markley_Lab10.AssemblyInfo.cs
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\obj\Debug\netcoreapp2.1\Markley_Lab10.dll
+C:\Users\kmarkley.WIN.004\Documents\Markley_Lab10\Markley_Lab10\obj\Debug\netcoreapp2.1\Markley_Lab10.pdb
