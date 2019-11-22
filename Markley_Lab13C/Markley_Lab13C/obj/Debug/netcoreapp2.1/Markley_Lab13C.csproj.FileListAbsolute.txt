@@ -1,0 +1,11 @@
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\bin\Debug\netcoreapp2.1\Markley_Lab13C.deps.json
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\bin\Debug\netcoreapp2.1\Markley_Lab13C.runtimeconfig.json
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\bin\Debug\netcoreapp2.1\Markley_Lab13C.runtimeconfig.dev.json
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\bin\Debug\netcoreapp2.1\Markley_Lab13C.dll
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\bin\Debug\netcoreapp2.1\Markley_Lab13C.pdb
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\obj\Debug\netcoreapp2.1\Markley_Lab13C.csprojAssemblyReference.cache
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\obj\Debug\netcoreapp2.1\Markley_Lab13C.csproj.CoreCompileInputs.cache
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\obj\Debug\netcoreapp2.1\Markley_Lab13C.AssemblyInfoInputs.cache
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\obj\Debug\netcoreapp2.1\Markley_Lab13C.AssemblyInfo.cs
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\obj\Debug\netcoreapp2.1\Markley_Lab13C.dll
+C:\Users\kmarkley.WIN.002\Documents\Markley_Lab13C\Markley_Lab13C\obj\Debug\netcoreapp2.1\Markley_Lab13C.pdb
