@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Random;
 
 public class Lab14
 {
@@ -6,12 +7,14 @@ public class Lab14
 	{
 		//PART 1:
 		Scanner scan = new Scanner(System.in);
-		int[] arrayPart1 = new int[5];
+		Random random = new Random();
+		int[] arrayPart1 = new int[100];
 		
 		System.out.println("Enter values: ");
 		for(int i = 0; i < arrayPart1.length; i++)
 		{
-			arrayPart1[i] = scan.nextInt();
+			//arrayPart1[i] = scan.nextInt();
+			arrayPart1[i] = random.nextInt(100);
 		}
 		
 		System.out.println("Enter a number to look for: ");
@@ -33,6 +36,9 @@ public class Lab14
 		{
 			System.out.print(arrayPart1[i] + " | ");
 		}
+		
+		
+		
 	}
 	
 	//PART 1:
